@@ -8,5 +8,7 @@
 </p>
 <p align="center">
 owner of a time-wasting bot called paris
+    <p align="center">
+i like to abuse the shitty api for the time-draining app we call Discord and make projects for it.
 <p align="center">
     <a href="https://discord.gg/parisbot">a stupid idea i like to call a discord server</a>
